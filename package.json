@@ -1,0 +1,11 @@
+{
+  "name": "sintag-ltd-server",
+  "version": "1.0.0",
+  "description": "Server for sintag private limited and I have created it for my assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "S M SHAFI",
+  "license": "ISC"
+}
