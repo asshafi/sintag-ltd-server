@@ -14,11 +14,51 @@
       "price": 12
     },
     {
-      "id": 1,
+      "id": 3,
       "title": "Evit-sell",
       "desc": "This is a pet animal helpful medicine.",
       "img": "images/products/evit-sell.png",
       "price": 18
+    }
+    ,
+    {
+      "id": 4,
+      "title": "Geotag-pro",
+      "desc": "This is a pet animal helpful medicine.",
+      "img": "images/products/geotag_pro.png",
+      "price": 9
+    }
+    ,
+    {
+      "id": 5,
+      "title": "Growsin-mix",
+      "desc": "This is a pet animal helpful medicine.",
+      "img": "images/products/growsin-mix.png",
+      "price": 26
+    }
+    ,
+    {
+      "id": 6,
+      "title": "Hicid-ph",
+      "desc": "This is a pet animal helpful medicine.",
+      "img": "images/products/hicid-ph.png",
+      "price": 13
+    }
+    ,
+    {
+      "id": 7,
+      "title": "I-mactin",
+      "desc": "This is a pet animal helpful medicine.",
+      "img": "images/products/i-mactin.png",
+      "price": 16
+    }
+    ,
+    {
+      "id": 8,
+      "title": "Multimix-Layer-Grower",
+      "desc": "This is a pet animal helpful medicine.",
+      "img": "images/products/multimix-_layer-grower.png",
+      "price": 29
     }
   
 ]
