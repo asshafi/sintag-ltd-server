@@ -16,7 +16,7 @@ app.get('/products', (req, res) => {
 })
 
 app.get('/product/:id', function ({ params }, res, next) {
-    const data = courses.find(({ id }) => id == params.id);
+    const data = products.find(({ id }) => id == params.id);
     res.json(data)
 })
 
