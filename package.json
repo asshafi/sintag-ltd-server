@@ -4,7 +4,8 @@
   "description": "Server for sintag private limited and I have created it for my assignment",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm build --output public"
   },
   "author": "S M SHAFI",
   "license": "ISC",
